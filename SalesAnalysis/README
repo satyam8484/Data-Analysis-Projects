@@ -8,3 +8,50 @@ we hava data for each month 1st we will combine it into one CSV using pandas (Al
 you can do Same task using Excel but it'll take time for processing as it is very large Data. still i have given answer of some questions using Excel 
 Check out that also ( Good exercise to learn Excel )
 
+
+
+
+Task #1: Merging 12 csvs into a single dataframe 
+ Read single CSV file
+ List all files in a directory 
+ Concatenating files
+ Reading in Updated dataframe
+
+Task #2: Add a Month column 
+ Parse string in Pandas cell (.str)
+
+Cleaning our data!
+ Drop NaN values from df
+ Remove rows based on condition
+
+Task #3: Add a sales column 
+ Another way to convert a column to numeric (ints & floats)
+
+Question #1: What was the best month for sales? 
+ Visualizing our results with bar chart in matplotlib
+
+Question #2: What city sold the most product? 
+ Add a city column
+ Using the .apply() method (super useful!!)
+ Why do we use the lambda x ?
+ Dropping a column
+ Answering the question (using groupby)
+ Plotting our results
+
+Question #3: What time should we display advertisements to maximize the likelihood of purchases? 
+ Using to_datetime() method
+ Creating hour & minute columns
+ Matplotlib line graph to plot our results
+ Interpreting our results
+
+Question #4: What products are most often sold together? 
+ Finding duplicate values in our DataFrame
+ Use transform() method to join values from two rows into a single row
+ Dropping rows with duplicate values
+ Counting pairs of products (itertools, collections)
+
+Question #5: What product sold the most? Why do you think it did? 
+ Graphing data
+ Overlaying a second Y
+ Interpreting our results
+
