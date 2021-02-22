@@ -1,1 +1,20 @@
+Here we are Solving real world data science tasks using Excel
 
+
+Task #2: Add a Month column 
+ Parse string in Pandas cell (.str)
+
+Cleaning our data!
+ Drop NaN values from df
+ Remove rows based on condition
+
+Task #3: Add a sales column 
+ Another way to convert a column to numeric (ints & floats)
+
+Question #1: What was the best month for sales? 
+ Visualizing our results with bar chart in matplotlib
+
+Question #2: What city sold the most product? 
+ Dropping a column
+ Answering the question (using groupby)
+ Plotting our results
